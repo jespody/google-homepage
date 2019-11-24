@@ -1,2 +1,3 @@
 # google-homepage
-#test run of odin- project 1? am i commiting right?
+#test run of odin- project 1? 
+#Some obvious issues, just a basic run
